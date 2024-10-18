@@ -35,7 +35,7 @@ body {
 }
 
 .logo {
-  margin: 3rem 0 2rem;
+  margin: 3rem 1.5rem 2rem;
 }
 
 main section {
@@ -50,6 +50,7 @@ form {
   border-radius: 1rem;
   padding: 2.5rem;
   max-width: 462px;
+  border: solid;
 
   display: flex;
   flex-direction: column;
